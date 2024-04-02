@@ -1,0 +1,130 @@
+Wed Mar 27 05:49:55 MST 2024 D/Util: Network SSID: = <unknown ssid>
+ speed :-1
+txLinkSpeedMbps:-1
+rxLinkSpeedMbps-1
+ ipAddress= 0.0.0.0
+Wed Mar 27 05:49:55 MST 2024 D/Util: wifiName=<unknown ssid>, curIpAddress=0.0.0.0
+Wed Mar 27 05:49:55 MST 2024 D/Util: first part of ip = 0, sec Part =0
+Wed Mar 27 05:49:55 MST 2024 D/Util: maybe a chromebook
+Wed Mar 27 05:49:55 MST 2024 D/SplashScreen: packageName=com.airbeamtv.rokuapp packageNamecom.airbeamtv.roku
+Wed Mar 27 05:49:55 MST 2024 D/DummyMirrorToTVSDK: DummyMirrorToTVSDK init Roku Screen Mirroring + Cast
+Wed Mar 27 05:49:55 MST 2024 D/DeviceManager: DeviceManager started
+Wed Mar 27 05:49:55 MST 2024 D/SplashScreen: startDLNAService
+Wed Mar 27 05:49:55 MST 2024 D/UpnpSingleton: initInstance
+Wed Mar 27 05:49:55 MST 2024 D/FlingController: startDiscovery
+Wed Mar 27 05:49:55 MST 2024 D/CastController: CastController
+Wed Mar 27 05:51:00 MST 2024 D/HomeFragment: onResume
+Wed Mar 27 05:51:00 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:51:00 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:51:00 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:51:00 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:51:00 MST 2024 D/HomeActivity: cellular network connected
+Wed Mar 27 05:51:00 MST 2024 D/HomeActivity: lost wifi
+Wed Mar 27 05:51:00 MST 2024 D/HomeActivity: showWifiNotConnectedDialog
+Wed Mar 27 05:51:00 MST 2024 D/HomeActivity: wifi not connected unsetting the cur dev
+Wed Mar 27 05:51:00 MST 2024 D/DummyMirrorToTVSDK: setCurRenderernull
+Wed Mar 27 05:51:00 MST 2024 D/DeviceManager: unsetting the cur device
+Wed Mar 27 05:51:00 MST 2024 D/DummyMirrorToTVSDK: new TransportState val STOPPEDold val=null
+Wed Mar 27 05:51:00 MST 2024 D/DummyMirrorToTVSDK: stopping with val=STOPPED
+Wed Mar 27 05:51:00 MST 2024 D/NativeWrapper: NativeWrapper library  loaded
+Wed Mar 27 05:51:00 MST 2024 D/NativeWrapper: Create a new NativeWrapper for a TS / DLNA device with alias "<NULL>". Min bytes per sec = 0. Min bytes per sec when not playing = 0. isWaitingForStreamData = YES
+Wed Mar 27 05:51:01 MST 2024 D/HomeActivity: goBackToHomePage
+Wed Mar 27 05:51:01 MST 2024 D/HomeFragment: consent load error = No available form can be built.consent status=1
+Wed Mar 27 05:51:02 MST 2024 D/GoogleAppstoreReview: ReviewInfo{pendingIntent=PendingIntent{7f66ade: android.os.BinderProxy@e2f54bf}, isNoOp=false}
+Wed Mar 27 05:51:07 MST 2024 D/HomeFragment: onResume
+Wed Mar 27 05:51:07 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:51:07 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:51:07 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:51:07 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:51:11 MST 2024 D/HomeActivity: dismiss alow
+Wed Mar 27 05:51:11 MST 2024 D/HomeActivity: goBackToHomePage
+Wed Mar 27 05:55:06 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:55:06 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:55:06 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:55:06 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:55:06 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:55:06 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:55:06 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:55:06 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:55:06 MST 2024 D/HomeFragment: onResume
+Wed Mar 27 05:55:06 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:55:06 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:55:06 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:55:06 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:55:09 MST 2024 D/HomeActivity: cellular network connected
+Wed Mar 27 05:55:09 MST 2024 D/HomeActivity: showWifiNotConnectedDialog
+Wed Mar 27 05:55:09 MST 2024 D/HomeActivity: wifi not connected unsetting the cur dev
+Wed Mar 27 05:55:09 MST 2024 D/DummyMirrorToTVSDK: setCurRenderernull
+Wed Mar 27 05:55:09 MST 2024 D/DeviceManager: unsetting the cur device
+Wed Mar 27 05:55:09 MST 2024 D/DummyMirrorToTVSDK: new TransportState val STOPPEDold val=MIRRORING_TO_TV_STOPPED
+Wed Mar 27 05:55:09 MST 2024 D/HomeActivity: goBackToHomePage
+Wed Mar 27 05:55:11 MST 2024 D/HomeActivity: dismiss alow
+Wed Mar 27 05:55:11 MST 2024 D/HomeActivity: goBackToHomePage
+Wed Mar 27 05:55:21 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:55:21 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:55:21 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:55:21 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:55:21 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:55:21 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:55:21 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:55:21 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:55:21 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:55:21 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:55:21 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:55:21 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:55:21 MST 2024 D/HomeFragment: onResume
+Wed Mar 27 05:55:21 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:55:21 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:55:21 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:55:21 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:55:57 MST 2024 D/Util: Network SSID: = <unknown ssid>
+ speed :-1
+txLinkSpeedMbps:0
+rxLinkSpeedMbps0
+ ipAddress= 0.0.0.0
+Wed Mar 27 05:55:57 MST 2024 D/SplashScreen: packageName=com.airbeamtv.rokuapp packageNamecom.airbeamtv.roku
+Wed Mar 27 05:55:57 MST 2024 D/DummyMirrorToTVSDK: DummyMirrorToTVSDK init Roku Screen Mirroring + Cast
+Wed Mar 27 05:55:57 MST 2024 D/SplashScreen: startDLNAService
+Wed Mar 27 05:55:57 MST 2024 D/FlingController: startDiscovery
+Wed Mar 27 05:55:58 MST 2024 D/HomeActivity: goBackToHomePage
+Wed Mar 27 05:55:58 MST 2024 D/HomeFragment: onResume
+Wed Mar 27 05:55:58 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:55:58 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:55:58 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:55:58 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:55:58 MST 2024 D/HomeActivity: cellular network connected
+Wed Mar 27 05:55:58 MST 2024 D/HomeActivity: lost wifi
+Wed Mar 27 05:55:58 MST 2024 D/HomeActivity: showWifiNotConnectedDialog
+Wed Mar 27 05:55:58 MST 2024 D/HomeActivity: wifi not connected unsetting the cur dev
+Wed Mar 27 05:55:58 MST 2024 D/DummyMirrorToTVSDK: setCurRenderernull
+Wed Mar 27 05:55:58 MST 2024 D/DeviceManager: unsetting the cur device
+Wed Mar 27 05:55:58 MST 2024 D/DummyMirrorToTVSDK: new TransportState val STOPPEDold val=MIRRORING_TO_TV_STOPPED
+Wed Mar 27 05:55:58 MST 2024 D/HomeActivity: goBackToHomePage
+Wed Mar 27 05:56:00 MST 2024 D/HomeActivity: dismiss alow
+Wed Mar 27 05:56:00 MST 2024 D/HomeActivity: goBackToHomePage
+Wed Mar 27 05:57:41 MST 2024 D/HomeActivity: wifi is connected
+Wed Mar 27 05:57:41 MST 2024 D/HomeActivity: wifi is connected
+Wed Mar 27 05:57:42 MST 2024 D/HomeActivity: wifi is connected
+Wed Mar 27 05:57:42 MST 2024 D/HomeActivity: wifi is connected
+Wed Mar 27 05:59:17 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:59:17 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:59:17 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:59:17 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:59:17 MST 2024 D/HomeFragment: onResume
+Wed Mar 27 05:59:17 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:59:17 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:59:17 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:59:17 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 05:59:31 MST 2024 D/UpnpSingleton: initInstance
+Wed Mar 27 05:59:31 MST 2024 D/FlingController: startDiscovery
+Wed Mar 27 06:00:23 MST 2024 D/HomeFragment: onResume
+Wed Mar 27 06:00:23 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 06:00:23 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 06:00:23 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 06:00:23 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 06:00:25 MST 2024 D/HomeFragment: onResume
+Wed Mar 27 06:00:25 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 06:00:25 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 06:00:25 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 06:00:25 MST 2024 D/HomeFragment: user has no subscription
+Wed Mar 27 06:00:28 MST 2024 D/HomeFragment: onAdFailedToLoad error =No fill.
